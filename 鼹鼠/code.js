@@ -1,0 +1,1 @@
+({f:function(){return this.f()}}).f()
